@@ -39,24 +39,21 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 
 ### 🧠 Developer Snapshot
 
-```yaml
-role: AI & Robotics Student
-languages:
-  - HTML
-  - Python
-  - C
-  - Java
-featured_project:
-  - CNC_PLOTTER
-status: Student
-mindset: Learning by building
-```
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 
----
+### Developer Snapshot
+
+**AI & Robotics Student**  
+**Python • C • Java • HTML**  
+**Project:** CNC_PLOTTER  
+**Focus:** AI • Robotics • Hardware
+
+</div>
 
 ## 🧰 Tech Stack
 
