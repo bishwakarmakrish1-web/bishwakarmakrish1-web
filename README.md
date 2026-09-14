@@ -22,7 +22,7 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm<H2>Krish!</H2>
+### Hi, I'm Krish !
 <H1>AI & Robotics Student</H1>
 
 I'm a student interested in **AI, robotics, programming, and hands-on hardware projects**.
@@ -50,7 +50,7 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 <br>
 **Python  •  C  •  Java  •  HTML**  
 **Focus:** AI || Robotics || Hardware
-
+</br>
 
 
 
