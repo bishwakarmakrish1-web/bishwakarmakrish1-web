@@ -22,7 +22,8 @@
 <tr>
 <td width="58%" valign="top">
 
-### Hi, I'm Krish!
+### Hi, I'm <H2>Krish!</H2>
+<H1>AI & Robotics Student</H1>
 
 I'm a student interested in **AI, robotics, programming, and hands-on hardware projects**.
 
@@ -46,11 +47,12 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+
 **Python  •  C  •  Java  •  HTML**  
 **Focus:** AI || Robotics || Hardware
 
 
-<H1>AI & Robotics Student</H1>
+
 
 
 
