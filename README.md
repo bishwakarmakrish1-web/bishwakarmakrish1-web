@@ -49,9 +49,8 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 ### Developer Snapshot
 
 **AI & Robotics Student**  
-**Python • C • Java • HTML**  
-**Project:**
-**Focus:** AI • Robotics • Hardware
+**Python  •  C  •  Java  •  HTML**  
+**Focus:** AI || Robotics || Hardware
 
 </div>
 </td>
