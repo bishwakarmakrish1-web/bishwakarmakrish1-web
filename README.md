@@ -50,7 +50,7 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 
 **AI & Robotics Student**  
 **Python • C • Java • HTML**  
-**Project:** CNC_PLOTTER  
+**Project:**
 **Focus:** AI • Robotics • Hardware
 
 </div>
