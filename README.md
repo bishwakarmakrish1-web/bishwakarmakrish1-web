@@ -40,18 +40,19 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 
 
 <div align="center">
+<h2>Developer Snapshot</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+**Python  •  C  •  Java  •  HTML**  
+**Focus:** AI || Robotics || Hardware
 
-### Developer Snapshot
+
 <H1>AI & Robotics Student</H1>
 
 
-**Python  •  C  •  Java  •  HTML**  
-**Focus:** AI || Robotics || Hardware
 
 </div>
 </td>
