@@ -47,8 +47,9 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 
 ### Developer Snapshot
+<H1>**AI & Robotics Student** </H1>
+**AI & Robotics Student** 
 
-**AI & Robotics Student**  
 **Python  •  C  •  Java  •  HTML**  
 **Focus:** AI || Robotics || Hardware
 
