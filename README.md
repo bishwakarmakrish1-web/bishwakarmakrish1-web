@@ -54,6 +54,12 @@ BUILD  →  TEST  →  LEARN  →  IMPROVE
 **Focus:** AI • Robotics • Hardware
 
 </div>
+</td>
+</tr>
+</table>
+
+---
+
 
 ## 🧰 Tech Stack
 
